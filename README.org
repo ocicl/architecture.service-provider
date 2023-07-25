@@ -1,0 +1,10 @@
+* architecture.service-provider
+
+Framework for defining, introspecting and using services and providers of such
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/scymtym/architecture.service-provider.git   |
+| commit  | e5229dd  |
+| systems | architecture.service-provider |
+|---------+-------------------------------------------|
+
